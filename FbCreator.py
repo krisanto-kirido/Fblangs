@@ -9,9 +9,9 @@ from faker import Faker
 
 print(f"""
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓           
-> › Github :- @jatintiwari0 
-> › By      :- JATIN TIWARI
-> › Proxy Support Added by @coopers-lab
+> › facebook :- krisanto kirido
+> › By      :- KRISANTO MAXARAP
+> › Proxy Support Added by @wala langs
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛                """)
 print('\x1b[38;5;208m⇼'*60)
 print('\x1b[38;5;22m•'*60)
